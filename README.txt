@@ -1,7 +1,7 @@
 Pinjectme
 =========
 
-This is my first program, a simple Packet Injector created in python 
+This is my first publication, a simple Packet Injector created in python 
 that allows you to inejct tcp flags to a given tagrget host
 Usage : 
 
