@@ -3,7 +3,7 @@
 # Name: Pinjectme.py
 # Author: KADDOUR BOUMEDIENE
 # Purpose: Packet injection
-# date of creating: xx/xx/2014
+# date of creation: xx/xx/2014
 
 import socket 
 import struct 
